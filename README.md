@@ -63,6 +63,7 @@
 1. [KeepRule](https://keeprule.com) - AI-powered investment discipline platform with principles from 26 legendary investors, including Buffett, Munger, and Dalio
 1. [FIREnomics](https://www.firenomics.com) - practical FIRE guides grounded in math: savings rate, index funds, the 4% rule and its failure points, withdrawal strategy
 1. [ZeroToInvest](https://zerotoinvest.com/de/) - Free, ad-free German-language course on investing and stock markets, covering more than 100 lessons plus interactive calculators.
+1. [DisconfirmAI Reading](https://disconfirmai.com/en/reading) - Source-linked English briefs on AI companies and industry developments; currently free to read without an account.
 
 ## Private market investing (only for accredited investors)
 
